@@ -1,7 +1,9 @@
 # Something
 
 
-Welcome to System Checker
+Welcome to System Check
 
 
-> -  HOW TO RUN
+
+
+*HOW TO RUN
