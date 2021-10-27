@@ -1,11 +1,5 @@
-# Something
-
-
-Welcome to System Check
+# System Check
 
 
 
-
-How to run
-
-First, go to 
+#sorry for the github.io thing
