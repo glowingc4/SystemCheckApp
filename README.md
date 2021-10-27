@@ -6,4 +6,4 @@ Welcome to System Check
 
 
 
-*HOW TO RUN
+(How to run)
