@@ -6,4 +6,6 @@ Welcome to System Check
 
 
 
-(How to run)
+How to run
+
+First, go to 
